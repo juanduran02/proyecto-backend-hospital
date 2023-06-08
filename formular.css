@@ -1,4 +1,4 @@
-table, th, tr {
+table, th, tr, tbody {
     border: 0.001px solid black;
     margin: 19px;
     width: 100rem;
